@@ -3,6 +3,8 @@
  Go 語言常見的錯誤（pitfalls、mistakes、traps）用法。
  
 ## References
+
+- [2020/09/20 -  Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [2020/08/07 - Common Concurrent Programming Mistakes](https://go101.org/article/concurrent-common-mistakes.html)
 - [2020/06/29 - 24 Common Mistakes In GO (gotchas) And How To Avoid Them](https://www.bacancytechnology.com/blog/top-24-common-mistakes-in-go-programming#disqus_thread)
 - [2019/12/21 - CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
