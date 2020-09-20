@@ -9,6 +9,8 @@
 - [2019/10/24 - Common Go Pitfalls](https://www.reddit.com/r/golang/comments/dmgsry/common_go_pitfalls/)
 - [2019/10/07 - 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [2019/07/18 - The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
+- [2018/08/28 - 7 Subtle Pitfalls in the Go Language](https://polyfloyd.net/post/golang-subtle-pitfalls/)
+- [2018/08/08 - On the uses and misuses of panics in Go](https://eli.thegreenplace.net/2018/on-the-uses-and-misuses-of-panics-in-go/)
 - [2018/02/14 - Do you make these Go coding mistakes?](https://yourbasic.org/golang/gotcha/)
 - [2017/03/23 - Common Pitfalls When Using database/sql in Go](https://orangematter.solarwinds.com/2017/03/23/common-pitfalls-when-using-database-sql-in-go/)
 - [2016/09/20 - Gotchas and Common Mistakes with Closures in Go](https://www.calhoun.io/gotchas-and-common-mistakes-with-closures-in-go/)
