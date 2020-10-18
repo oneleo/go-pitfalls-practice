@@ -4,6 +4,7 @@
  
 ## References
 
+- [2020/10/12 - 哦，原來是這麼回事：Golang 中的一些常識](https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw)
 - [2020/09/20 -  Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [2020/08/07 - Common Concurrent Programming Mistakes](https://go101.org/article/concurrent-common-mistakes.html)
 - [2020/06/29 - 24 Common Mistakes In GO (gotchas) And How To Avoid Them](https://www.bacancytechnology.com/blog/top-24-common-mistakes-in-go-programming#disqus_thread)
