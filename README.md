@@ -3,7 +3,7 @@
  Go 語言常見的錯誤（pitfalls、mistakes、traps）用法。
  
 ## References
-
+- [2020/10/26 - 5 Mistakes I’ve Made in Go](https://medium.com/swlh/5-mistakes-ive-made-in-go-75fb64b943b8)
 - [2020/10/12 - 哦，原來是這麼回事：Golang 中的一些常識](https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw)
 - [2020/09/20 -  Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [2020/08/07 - Common Concurrent Programming Mistakes](https://go101.org/article/concurrent-common-mistakes.html)
